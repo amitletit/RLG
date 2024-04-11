@@ -1,2 +1,2 @@
 # RLG
-Random lunch generator (RLG) for condensed matter physics people which only include the people I like ... University of Manchester 
+Random lunch generator (RLG) for condensed matter physics people which only includes the people I like in University of Manchester 
