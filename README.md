@@ -1,2 +1,2 @@
-# RLG
-Random lunch generator (RLG) for condensed matter physics people which only includes the people I like in University of Manchester 
+# QRLG
+Quantum Random lunch generator (QRLG) for condensed matter physics people at the University of Manchester, 
